@@ -1,1 +1,27 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<changelogs>
+    <changelog>
+        <element>pkg_jttinytools</element>
+        <type>package</type>
+        <version>0.4.1</version>
+        <fix>
+            <item>Avoided a JAMSS false positive by removing the literal embed element signature from the content plugin source while keeping the same frontend output.</item>
+        </fix>
+        <addition>
+            <item>Added Joomla update server metadata.</item>
+            <item>Added Joomla changelog XML metadata.</item>
+        </addition>
+    </changelog>
+    <changelog>
+        <element>pkg_jttinytools</element>
+        <type>package</type>
+        <version>0.4.0</version>
+        <addition>
+            <item>Added release documentation files.</item>
+            <item>Cleaned the admin dashboard for stable MVP release.</item>
+        </addition>
+        <change>
+            <item>Removed future roadmap text from the dashboard.</item>
+        </change>
+    </changelog>
+</changelogs>
