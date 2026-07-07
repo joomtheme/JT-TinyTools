@@ -3,6 +3,37 @@
     <changelog>
         <element>pkg_jttinytools</element>
         <type>package</type>
+        <version>0.4.3</version>
+        <fix>
+            <item>Fixed package, component, and plugin display names so Joomla shows readable extension names during uninstall instead of language constants.</item>
+            <item>Normalized extension names in Joomla's extensions table during install and update.</item>
+            <item>Updated the minimum PHP requirement to 8.3.0 for Joomla 6.x compatibility.</item>
+        </fix>
+        <change>
+            <item>Improved package metadata consistency for Joomla Extension Manager.</item>
+        </change>
+    </changelog>
+
+    <changelog>
+        <element>pkg_jttinytools</element>
+        <type>package</type>
+        <version>0.4.2</version>
+        <fix>
+            <item>Improved URL sanitization for generated button, card, and file links.</item>
+            <item>Prevented plugins from being force-enabled again during package updates.</item>
+            <item>Unified changelog metadata paths across extension manifests.</item>
+            <item>Removed duplicate legacy language files.</item>
+        </fix>
+        <change>
+            <item>Moved dashboard status logic into a dedicated Joomla MVC model.</item>
+            <item>Made the dashboard status visibility option functional.</item>
+            <item>Updated Joomla 6.x compatibility metadata.</item>
+        </change>
+    </changelog>
+
+    <changelog>
+        <element>pkg_jttinytools</element>
+        <type>package</type>
         <version>0.4.1</version>
         <fix>
             <item>Avoided a JAMSS false positive by removing the literal embed element signature from the content plugin source while keeping the same frontend output.</item>
@@ -12,6 +43,7 @@
             <item>Added Joomla changelog XML metadata.</item>
         </addition>
     </changelog>
+
     <changelog>
         <element>pkg_jttinytools</element>
         <type>package</type>
