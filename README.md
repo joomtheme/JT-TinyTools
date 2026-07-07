@@ -72,7 +72,7 @@ Generated snippets use Joomla/template Bootstrap 5 classes.
 Download the latest package ZIP from GitHub Releases:
 
 ```text
-pkg_jttinytools_0.4.1.zip
+pkg_jttinytools_0.4.3.zip
 ```
 
 Install it from Joomla Administrator:
@@ -343,13 +343,13 @@ This is expected behavior.
 Use the package ZIP for installation:
 
 ```text
-pkg_jttinytools_0.4.1.zip
+pkg_jttinytools_0.4.3.zip
 ```
 
 Release download URL:
 
 ```text
-https://github.com/joomtheme/JT-TinyTools/releases/download/v0.4.1/pkg_jttinytools_0.4.1.zip
+https://github.com/joomtheme/JT-TinyTools/releases/download/v0.4.3/pkg_jttinytools_0.4.3.zip
 ```
 
 ---
@@ -391,13 +391,13 @@ LICENSE.txt
 ## Current release
 
 ```text
-0.4.1
+0.4.3
 ```
 
 ---
 
 ## Status
 
-JT TinyTools 0.4.1 is a stable MVP release prepared for Joomla Extension Directory testing.
+JT TinyTools 0.4.3 is a stable MVP release prepared for Joomla Extension Directory testing.
 
 It focuses on a clean Joomla core TinyMCE workflow, Bootstrap 5 content builders, and safe YouTube embed rendering.
