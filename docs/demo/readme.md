@@ -78,7 +78,7 @@ The administrator component provides a compact dashboard with package status, ex
 ## Notes for JED review
 
 - JT TinyTools keeps Joomla's default TinyMCE editor workflow.
-- It does not require JCE or any third-party editor.
+- JT TinyTools is designed for Joomla's core TinyMCE workflow and can be used without replacing the default editor.
 - It does not load a custom CSS framework.
 - Generated snippets use Bootstrap 5 classes available in Joomla templates.
 - YouTube embeds are inserted as shortcodes to avoid editor/text-filter iframe removal issues.
