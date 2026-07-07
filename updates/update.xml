@@ -17,7 +17,6 @@
         <section>stable</section>
         <targetplatform name="joomla" version="6.*" />
         <php_minimum>8.1.0</php_minimum>
-        <sha256>b19ac2ff3fd4e08f15560754c64107ee8775e43737c46f4039cb6ee85d63765e</sha256>
         <changelogurl>https://raw.githubusercontent.com/JoomTheme/jttinytools/main/changelog.xml</changelogurl>
     </update>
 </updates>
