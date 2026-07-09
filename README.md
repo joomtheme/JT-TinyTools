@@ -1,3 +1,6 @@
+![Uploading jt-tinytools.png…]()
+
+
 # JT TinyTools
 
 **JT TinyTools** extends Joomla’s core TinyMCE editor with Bootstrap 5 content builders and privacy-friendly YouTube embeds.
